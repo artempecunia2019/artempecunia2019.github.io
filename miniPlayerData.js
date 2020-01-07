@@ -1,15 +1,15 @@
 klynt.miniPlayerData = {
-    "launchAppWording": "Then Launch Project",
     "thanksForWatchingWording": "Thanks for watching!",
     "resumePlaybackWording": "Resume playback?",
-    "downloadAppWording": "Download App",
     "fullscreenInfoWording": "This program will launch in fullscreen",
     "yesWording": "Yes",
-    "title": "artem_pecunia",
-    "thumbnail": "Medias/Photos/home_screen-2.jpg",
+    "title": "Artem Pecunia",
+    "thumbnail": "Medias/Posters/home_page_1.mp4.jpg",
     "noWording": "No",
     "analyticsKey": "",
+    "launchAppWording": "Then Launch Project",
     "redirectToMobileApp": "always",
+    "downloadAppWording": "Download App",
     "url": "",
-    "description": "subtitle"
+    "description": "2019"
 }
