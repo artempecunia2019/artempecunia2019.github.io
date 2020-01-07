@@ -8,10 +8,10 @@ klynt.data = {
         },
         "items": [
             {
-                "label": "Index",
+                "label": "Narrative Structure",
                 "action": {
                     "type": "openWidget",
-                    "target": "4B791B11-026B-2299-5778-7F97A1D96A78"
+                    "target": "06758D7C-2117-438B-8193-7F97A1D9552A"
                 }
             },
             {
@@ -66,7 +66,7 @@ klynt.data = {
         "launchAppWording": "Then Launch Project",
         "redirectToMobileApp": "always",
         "downloadAppWording": "Download App",
-        "url": "",
+        "url": "https://artempecunia2019.github.io/",
         "description": "2019"
     },
     "aliases": {
@@ -74,26 +74,34 @@ klynt.data = {
             "045222A7-AAAF-4F31-A64C-7FB84A17E7A3": "kemal_tanitim",
             "6BEF3641-A318-F06E-0706-7FB93DF568F0": "2_cins_1",
             "445A057E-60C7-6BE1-4750-7F97A1E4A280": "sanatcilar",
-            "034E970D-C58C-1FB5-EF7D-7FB93DF0D92B": "1_hasan_1",
+            "C742455B-8488-8589-96C2-800B7FDFE687": "1_piril_1",
             "A7C7C3F2-A67E-35B7-41B9-7FD2B2B51ECF": "Artem_Pecunia",
             "15179952-0EE6-A121-E82F-7FB93E11EA30": "4_hakan",
+            "C8FE5A0F-72E4-7A8C-563B-800B7FDD2CB3": "2_piril_1",
             "FB17B4A9-CBE1-FED7-E13D-7FE7B0660F11": "hakan_sorular",
             "DD272658-B597-97BE-F700-7FB93DF24662": "1_kemal",
+            "034E970D-C58C-1FB5-EF7D-7FB93DF0D92B": "1_hasan_1",
             "9A161650-6A79-0246-EFDE-7FB93E0E4469": "4_cins_1",
-            "63A07057-2FA5-0283-19A3-7FB93DE47493": "1_cins_1",
+            "D67CB50A-56D8-4EE8-0F4F-800B7FE1C131": "piril_tanitim",
             "D3F7F89F-FA6F-4C00-B335-7FB84A16DC89": "hasan_tanitim",
             "CF4D448F-B46C-8B77-062F-7FCCE0CE4C2E": "5_kemal",
             "763C240A-3EAD-4269-07B3-7FB93DEE9FCD": "1_hakan",
-            "B9F260CD-D92B-7710-36DD-7FB93DFACEF1": "2_hasan_1",
+            "8AB97916-C838-C80E-3CA5-800B7FD1AE2B": "5_piril_1",
+            "5E4E3187-3412-7108-DC99-7FB93E1ADCEA": "4_kemal",
+            "63A07057-2FA5-0283-19A3-7FB93DE47493": "1_cins_1",
             "32E7546A-FE07-17DC-B9CA-7FCCE0CC5B33": "5_hasan_1",
             "CD27B5F4-55D8-291C-B251-7FB93E05DCD3": "3_hakan",
+            "9A683ED7-26D2-BA7D-9384-800B7FDB05B1": "3_piril_1",
             "368EB2F5-FF7C-CDFD-670F-7FB93E0BC1CE": "3_kemal",
             "01DFC3D6-72A2-FDC9-794E-7FCCE0D25D95": "6_hasan_1",
+            "DFC05F51-DBFD-C6F1-67FA-800BBA1ECE7E": "piril",
             "A550FFAD-13C7-6C27-53F0-7FCCE0B970EE": "5_cins_1",
             "3560C713-38AC-D859-9E62-7FB93E1555D1": "4_hasan_1",
             "908E6FF5-16CD-5E0C-A93B-7FE7CA3AAC08": "kemal_sorular",
             "4834138E-1739-4778-CBE1-7FB93E08DDD3": "3_hasan_1",
-            "5E4E3187-3412-7108-DC99-7FB93E1ADCEA": "4_kemal",
+            "B9F260CD-D92B-7710-36DD-7FB93DFACEF1": "2_hasan_1",
+            "C7BFFF6E-CF09-C5A0-88CC-800B7FD50E32": "4_piril_1",
+            "650FF2AD-CD7C-84B9-656D-800BDF864875": "piril_sorular",
             "3B5AC17B-D724-DDFD-59A3-7FB84A0F3839": "cins_tanitim",
             "C2BCA421-2F98-E3CB-5E70-7FB84A156700": "hakan_tanitim",
             "B0F5238A-CC0F-6378-608E-7FCCE0C8F922": "5_hakan",
@@ -107,40 +115,48 @@ klynt.data = {
             "C6F70ABB-2369-57B3-E5A4-7FB93DFD2C75": "2_kemal"
         },
         "aliasToId": {
-            "5_hasan_1": "32E7546A-FE07-17DC-B9CA-7FCCE0CC5B33",
-            "4_kemal": "5E4E3187-3412-7108-DC99-7FB93E1ADCEA",
-            "hakan_sorular": "FB17B4A9-CBE1-FED7-E13D-7FE7B0660F11",
-            "2_hakan": "AAF7DAFF-EAF6-A412-35E4-7FB93DF84156",
-            "4_hakan": "15179952-0EE6-A121-E82F-7FB93E11EA30",
-            "kemal_sorular": "908E6FF5-16CD-5E0C-A93B-7FE7CA3AAC08",
-            "kemal_tanitim": "045222A7-AAAF-4F31-A64C-7FB84A17E7A3",
-            "1_cins_1": "63A07057-2FA5-0283-19A3-7FB93DE47493",
-            "3_kemal": "368EB2F5-FF7C-CDFD-670F-7FB93E0BC1CE",
-            "hasan_tanitim": "D3F7F89F-FA6F-4C00-B335-7FB84A16DC89",
-            "3_hasan_1": "4834138E-1739-4778-CBE1-7FB93E08DDD3",
-            "4_cins_1": "9A161650-6A79-0246-EFDE-7FB93E0E4469",
-            "4_hasan_1": "3560C713-38AC-D859-9E62-7FB93E1555D1",
-            "6_hakan": "FCCEF27F-92F9-26AE-BC3B-7FCCE0D1CBFA",
-            "6_cins_1": "4E227259-2268-2A73-C6E8-7FCCE0CF42AA",
+            "4_piril_1": "C7BFFF6E-CF09-C5A0-88CC-800B7FD50E32",
             "6_hasan_1": "01DFC3D6-72A2-FDC9-794E-7FCCE0D25D95",
-            "5_kemal": "CF4D448F-B46C-8B77-062F-7FCCE0CE4C2E",
-            "1_hakan": "763C240A-3EAD-4269-07B3-7FB93DEE9FCD",
-            "6_kemal": "B267DE77-BF8D-0721-B970-7FCCE0D48CCE",
-            "3_cins_1": "CA2CB371-8752-1136-54BD-7FB93E00A7A9",
             "sanatcilar": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
-            "2_hasan_1": "B9F260CD-D92B-7710-36DD-7FB93DFACEF1",
-            "2_cins_1": "6BEF3641-A318-F06E-0706-7FB93DF568F0",
-            "Artem_Pecunia": "A7C7C3F2-A67E-35B7-41B9-7FD2B2B51ECF",
-            "2_kemal": "C6F70ABB-2369-57B3-E5A4-7FB93DFD2C75",
-            "3_hakan": "CD27B5F4-55D8-291C-B251-7FB93E05DCD3",
+            "kemal_sorular": "908E6FF5-16CD-5E0C-A93B-7FE7CA3AAC08",
             "cins_tanitim": "3B5AC17B-D724-DDFD-59A3-7FB84A0F3839",
-            "hasan_sorular": "308DB92B-51AA-C075-1510-7FE7BE194886",
-            "5_hakan": "B0F5238A-CC0F-6378-608E-7FCCE0C8F922",
+            "1_hakan": "763C240A-3EAD-4269-07B3-7FB93DEE9FCD",
             "cins_sorular": "C2060D64-EB92-9A90-D121-7FBEC66D1CBB",
             "hakan_tanitim": "C2BCA421-2F98-E3CB-5E70-7FB84A156700",
-            "1_hasan_1": "034E970D-C58C-1FB5-EF7D-7FB93DF0D92B",
+            "4_hasan_1": "3560C713-38AC-D859-9E62-7FB93E1555D1",
+            "6_kemal": "B267DE77-BF8D-0721-B970-7FCCE0D48CCE",
+            "6_hakan": "FCCEF27F-92F9-26AE-BC3B-7FCCE0D1CBFA",
+            "6_cins_1": "4E227259-2268-2A73-C6E8-7FCCE0CF42AA",
+            "3_hasan_1": "4834138E-1739-4778-CBE1-7FB93E08DDD3",
+            "2_kemal": "C6F70ABB-2369-57B3-E5A4-7FB93DFD2C75",
+            "2_hakan": "AAF7DAFF-EAF6-A412-35E4-7FB93DF84156",
             "5_cins_1": "A550FFAD-13C7-6C27-53F0-7FCCE0B970EE",
-            "1_kemal": "DD272658-B597-97BE-F700-7FB93DF24662"
+            "2_piril_1": "C8FE5A0F-72E4-7A8C-563B-800B7FDD2CB3",
+            "kemal_tanitim": "045222A7-AAAF-4F31-A64C-7FB84A17E7A3",
+            "1_hasan_1": "034E970D-C58C-1FB5-EF7D-7FB93DF0D92B",
+            "1_kemal": "DD272658-B597-97BE-F700-7FB93DF24662",
+            "piril_tanitim": "D67CB50A-56D8-4EE8-0F4F-800B7FE1C131",
+            "4_kemal": "5E4E3187-3412-7108-DC99-7FB93E1ADCEA",
+            "hasan_tanitim": "D3F7F89F-FA6F-4C00-B335-7FB84A16DC89",
+            "5_piril_1": "8AB97916-C838-C80E-3CA5-800B7FD1AE2B",
+            "3_piril_1": "9A683ED7-26D2-BA7D-9384-800B7FDB05B1",
+            "piril": "DFC05F51-DBFD-C6F1-67FA-800BBA1ECE7E",
+            "2_hasan_1": "B9F260CD-D92B-7710-36DD-7FB93DFACEF1",
+            "piril_sorular": "650FF2AD-CD7C-84B9-656D-800BDF864875",
+            "3_kemal": "368EB2F5-FF7C-CDFD-670F-7FB93E0BC1CE",
+            "hasan_sorular": "308DB92B-51AA-C075-1510-7FE7BE194886",
+            "Artem_Pecunia": "A7C7C3F2-A67E-35B7-41B9-7FD2B2B51ECF",
+            "4_hakan": "15179952-0EE6-A121-E82F-7FB93E11EA30",
+            "3_hakan": "CD27B5F4-55D8-291C-B251-7FB93E05DCD3",
+            "1_cins_1": "63A07057-2FA5-0283-19A3-7FB93DE47493",
+            "4_cins_1": "9A161650-6A79-0246-EFDE-7FB93E0E4469",
+            "3_cins_1": "CA2CB371-8752-1136-54BD-7FB93E00A7A9",
+            "1_piril_1": "C742455B-8488-8589-96C2-800B7FDFE687",
+            "5_hakan": "B0F5238A-CC0F-6378-608E-7FCCE0C8F922",
+            "2_cins_1": "6BEF3641-A318-F06E-0706-7FB93DF568F0",
+            "hakan_sorular": "FB17B4A9-CBE1-FED7-E13D-7FE7B0660F11",
+            "5_hasan_1": "32E7546A-FE07-17DC-B9CA-7FCCE0CC5B33",
+            "5_kemal": "CF4D448F-B46C-8B77-062F-7FCCE0CE4C2E"
         }
     },
     "share": {
@@ -162,7 +178,7 @@ klynt.data = {
         "embedWording": "Embed",
         "title": "",
         "message": "",
-        "link": null,
+        "link": "https://artempecunia2019.github.io/",
         "enableGooglePlus": true
     },
     "watermark": {
@@ -182,9 +198,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "kemal_tanitim",
-            "x": 745.95,
+            "x": 1709.2,
             "size": "medium",
-            "y": 721.1,
+            "y": 541.85,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -206,7 +222,7 @@ klynt.data = {
                     "syncMaster": true,
                     "volume": 1,
                     "duration": "02:05.33",
-                    "player": true,
+                    "player": false,
                     "loop": false,
                     "scaleMode": "zoom",
                     "src": [
@@ -215,6 +231,18 @@ klynt.data = {
                             "src": "Medias/Videos/kemal_tanitim.mp4"
                         }
                     ],
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "908E6FF5-16CD-5E0C-A93B-7FE7CA3AAC08",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "8B05D411-E16B-CF29-1895-8034315EC744",
+                        "color": "rgba(0,0,0,1)"
+                    },
                     "frameRate": null,
                     "databegin": "00:00.00"
                 }
@@ -229,9 +257,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "2_cins_1",
-            "x": 164.98333333333335,
+            "x": -1589.8,
             "size": "medium",
-            "y": 1354.85,
+            "y": 1439.9,
             "backgroundColor": "rgba(0,0,0,0.75)",
             "videos": [
                 {
@@ -312,43 +340,7 @@ klynt.data = {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "rollOver": [
-                        {
-                            "value": "1",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "opacity"
-                        }
-                    ],
-                    "link": {
-                        "hideInMindmap": true,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "3B5AC17B-D724-DDFD-59A3-7FB84A0F3839",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "BAAE8A95-6A4F-7071-53D9-7FE6E3BFF24E",
-                        "color": "rgba(0,0,0,1)"
-                    },
                     "horizontalAlign": "center",
-                    "rollOut": [
-                        {
-                            "value": "0",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": false,
-                            "delay": 0,
-                            "name": "opacity"
-                        }
-                    ],
                     "scaleMode": "zoom",
                     "mediaWidth": 1890,
                     "scales": true,
@@ -397,43 +389,7 @@ klynt.data = {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "rollOver": [
-                        {
-                            "value": "1",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "opacity"
-                        }
-                    ],
-                    "link": {
-                        "hideInMindmap": true,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "045222A7-AAAF-4F31-A64C-7FB84A17E7A3",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "1BA96B9F-23FF-71D0-257B-7FE6BFC7914E",
-                        "color": "rgba(0,0,0,1)"
-                    },
                     "horizontalAlign": "center",
-                    "rollOut": [
-                        {
-                            "value": "0",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": false,
-                            "delay": 0,
-                            "name": "opacity"
-                        }
-                    ],
                     "scaleMode": "zoom",
                     "mediaWidth": 1890,
                     "scales": true,
@@ -482,43 +438,7 @@ klynt.data = {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "rollOver": [
-                        {
-                            "value": "1",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "opacity"
-                        }
-                    ],
-                    "link": {
-                        "hideInMindmap": true,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "D3F7F89F-FA6F-4C00-B335-7FB84A16DC89",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "6603A016-0A35-92F8-124D-7FE6995B4649",
-                        "color": "rgba(0,0,0,1)"
-                    },
                     "horizontalAlign": "center",
-                    "rollOut": [
-                        {
-                            "value": "0",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": false,
-                            "delay": 0,
-                            "name": "opacity"
-                        }
-                    ],
                     "scaleMode": "zoom",
                     "mediaWidth": 1890,
                     "scales": true,
@@ -567,43 +487,7 @@ klynt.data = {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "rollOver": [
-                        {
-                            "value": "1",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "opacity"
-                        }
-                    ],
-                    "link": {
-                        "hideInMindmap": true,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "C2BCA421-2F98-E3CB-5E70-7FB84A156700",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "B1CB9203-9567-15EE-8A0C-7FE660D69834",
-                        "color": "rgba(0,0,0,1)"
-                    },
                     "horizontalAlign": "center",
-                    "rollOut": [
-                        {
-                            "value": "0",
-                            "easing": "linear",
-                            "type": "style",
-                            "duration": 0.5,
-                            "target": "self",
-                            "reversible": false,
-                            "delay": 0,
-                            "name": "opacity"
-                        }
-                    ],
                     "scaleMode": "zoom",
                     "mediaWidth": 1890,
                     "scales": true,
@@ -618,12 +502,291 @@ klynt.data = {
                     "databegin": "00:00.00"
                 }
             ],
-            "x": 453.7,
-            "size": "medium",
-            "y": 356.45,
+            "x": 457.08333333333337,
+            "size": "large",
+            "y": 353.5,
             "backgroundColor": "rgba(0,0,0,1)",
             "duration": 208.195,
             "color": "rgba(0,0,0,1)",
+            "texts": [
+                {
+                    "centerY": "-424.99",
+                    "dataend": "03:29.20",
+                    "type": "txt-Default",
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-size: 45px;\"><strong>GERI</strong></span></p>",
+                    "name": "Text 1",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1.1",
+                            "easing": "linear",
+                            "type": "layout",
+                            "duration": 0.5,
+                            "target": "self",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "scale"
+                        }
+                    ],
+                    "zIndex": 9,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "814.26",
+                    "width": "211.96",
+                    "height": "110.05",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "650FF2AD-CD7C-84B9-656D-800BDF864875",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "94A0C839-89A8-70AA-8DCB-8030CFD87A0D",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "id": "F212225F-42C8-45B0-D542-80300B11E7B8",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "shapes": [
+                {
+                    "centerY": "252.71",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "3B5AC17B-D724-DDFD-59A3-7FB84A0F3839",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "71DC9358-386B-C0E5-A3AA-8050E7FEC357",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 10,
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "3DDD9DA4-F9C6-E106-0109-7FDC156E989F",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "3DDD9DA4-F9C6-E106-0109-7FDC156E989F",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.19",
+                    "centerX": "564.24",
+                    "width": "361.77",
+                    "height": "319.21",
+                    "label": "cins",
+                    "id": "72FCDC68-E1D8-BE25-5350-804EFB98ED53",
+                    "databegin": "00:00.01"
+                },
+                {
+                    "centerY": "-220.79",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "D3F7F89F-FA6F-4C00-B335-7FB84A16DC89",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "7748F9B0-4052-C722-BF13-8050A5D119E3",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 11,
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "24492BD7-7D5E-FCE8-7F41-7FDF5A068E46",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "24492BD7-7D5E-FCE8-7F41-7FDF5A068E46",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.19",
+                    "centerX": "-656.75",
+                    "width": "361.77",
+                    "height": "319.21",
+                    "label": "hasan",
+                    "id": "EFA90D3E-2FBE-5572-7B4B-804EEFDCC733",
+                    "databegin": "00:00.01"
+                },
+                {
+                    "centerY": "281.97",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "C2BCA421-2F98-E3CB-5E70-7FB84A156700",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "E1687846-6327-F940-D41E-8050C98A68EA",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 12,
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "7D600F42-7755-ED9C-4237-7FDF5A07A22A",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "7D600F42-7755-ED9C-4237-7FDF5A07A22A",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.19",
+                    "centerX": "-337.54",
+                    "width": "361.77",
+                    "height": "319.21",
+                    "label": "hakan",
+                    "id": "FBEB8CD6-DBBD-B4BE-7600-804ED452F59E",
+                    "databegin": "00:00.01"
+                },
+                {
+                    "centerY": "-212.81",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "045222A7-AAAF-4F31-A64C-7FB84A17E7A3",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "98748F81-23BC-A4BD-707D-804F6D126ED6",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 13,
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "7DB91676-F979-CBF3-C238-7FDF5A0426A8",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "7DB91676-F979-CBF3-C238-7FDF5A0426A8",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,1)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "218.42",
+                    "width": "361.77",
+                    "height": "319.21",
+                    "label": "kemal",
+                    "id": "FF84B211-F5E1-EB45-EA4A-804E7CABEB62",
+                    "databegin": "00:00.00"
+                }
+            ],
             "id": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
             "audios": [
                 {
@@ -650,32 +813,32 @@ klynt.data = {
                             "src": "Medias/Audios/3340-acid-trumpet-by-kevin-macleod.mp3"
                         }
                     ],
-                    "volume": 1,
+                    "volume": 0.6,
                     "mediaId": "D9C64CA9-573E-F33C-565D-7FC637C76156",
                     "databegin": "00:00.00"
                 }
             ]
         },
-        "034E970D-C58C-1FB5-EF7D-7FB93DF0D92B": {
+        "C742455B-8488-8589-96C2-800B7FDFE687": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/1_hasan_1.mp4.jpg",
+            "thumbnail": "Medias/Thumbnails/1_piril_1.mp4.jpg",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "1_hasan_1",
-            "x": 559.85,
+            "title": "1_piril_1",
+            "x": 770.15,
             "size": "medium",
-            "y": 1105.95,
+            "y": -194.4,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
                     "autoplay": true,
                     "verticalAlign": "middle",
-                    "dataend": "00:16.53",
-                    "poster": "Medias/Posters/1_hasan_1.mp4.jpg",
+                    "dataend": "00:30.89",
+                    "poster": "Medias/Posters/1_piril_1.mp4.jpg",
                     "mediaWidth": 1920,
                     "zIndex": 0,
-                    "id": "A7E0BF61-7426-A6BA-70EA-7FB93DF19155",
-                    "name": "1_hasan_1.mp4",
+                    "id": "89506F94-D313-F7CB-3112-800B7FDF0CA3",
+                    "name": "1_piril_1.mp4",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -685,23 +848,23 @@ klynt.data = {
                     "fitToWindow": true,
                     "syncMaster": true,
                     "volume": 1,
-                    "duration": "00:16.53",
+                    "duration": "00:30.89",
                     "player": true,
                     "loop": false,
                     "scaleMode": "zoom",
                     "src": [
                         {
                             "type": "video/mp4",
-                            "src": "Medias/Videos/1_hasan_1.mp4"
+                            "src": "Medias/Videos/1_piril_1.mp4"
                         }
                     ],
                     "frameRate": null,
                     "databegin": "00:00.00"
                 }
             ],
-            "duration": 16.533,
+            "duration": 30.89,
             "color": "rgba(0,0,0,1)",
-            "id": "034E970D-C58C-1FB5-EF7D-7FB93DF0D92B"
+            "id": "C742455B-8488-8589-96C2-800B7FDFE687"
         },
         "A7C7C3F2-A67E-35B7-41B9-7FD2B2B51ECF": {
             "hideInMindmap": false,
@@ -709,13 +872,38 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "Artem Pecunia",
-            "x": 452.1333333333334,
+            "images": [
+                {
+                    "centerY": "102.27",
+                    "verticalAlign": "middle",
+                    "dataend": "00:41.60",
+                    "src": "Medias/Photos/basla.png",
+                    "zIndex": 3,
+                    "id": "17E70673-9838-39F9-DFCD-802208C607B2",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "00:38.18",
+                    "centerX": "17.73",
+                    "width": "3865.91",
+                    "height": "2898.41",
+                    "name": "basla.png",
+                    "databegin": "00:03.42"
+                }
+            ],
+            "x": 458.23333333333335,
             "size": "large",
-            "y": 109.95000000000002,
+            "y": -1245.75,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
-                    "autoplay": true,
+                    "autoplay": false,
                     "verticalAlign": "middle",
                     "dataend": "00:40.60",
                     "poster": "Medias/Posters/home_page_1.mp4.jpg",
@@ -733,7 +921,7 @@ klynt.data = {
                     "syncMaster": true,
                     "volume": 1,
                     "duration": "00:40.60",
-                    "player": true,
+                    "player": false,
                     "loop": false,
                     "scaleMode": "zoom",
                     "src": [
@@ -742,24 +930,48 @@ klynt.data = {
                             "src": "Medias/Videos/home_page_1.mp4"
                         }
                     ],
-                    "link": {
-                        "hideInMindmap": false,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "027A7890-E067-D0CD-8469-7FF0E262CDD6",
-                        "color": "rgba(0,0,0,1)"
-                    },
                     "frameRate": null,
                     "databegin": "00:00.00"
                 }
             ],
             "duration": 40.597,
             "color": "rgba(0,0,0,1)",
+            "shapes": [
+                {
+                    "centerY": "7.16",
+                    "dataend": "00:41.60",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "DFC05F51-DBFD-C6F1-67FA-800BBA1ECE7E",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "E25F9994-5A21-D8AA-9561-802263AA8C80",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 4,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,1)"
+                    },
+                    "scales": true,
+                    "duration": "00:38.18",
+                    "centerX": "40.23",
+                    "width": "630.00",
+                    "height": "206.59",
+                    "label": "basla",
+                    "id": "82398495-72D5-90F3-354B-802241615F22",
+                    "databegin": "00:03.42"
+                }
+            ],
             "id": "A7C7C3F2-A67E-35B7-41B9-7FD2B2B51ECF"
         },
         "15179952-0EE6-A121-E82F-7FB93E11EA30": {
@@ -768,9 +980,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "4_hakan",
-            "x": 384.05,
+            "x": -526.95,
             "size": "medium",
-            "y": 1798.7,
+            "y": 1927,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -808,6 +1020,53 @@ klynt.data = {
             "duration": 51.52,
             "color": "rgba(0,0,0,1)",
             "id": "15179952-0EE6-A121-E82F-7FB93E11EA30"
+        },
+        "C8FE5A0F-72E4-7A8C-563B-800B7FDD2CB3": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/2_piril_1.mp4.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "2_piril_1",
+            "x": 1017.6,
+            "size": "medium",
+            "y": -192.45,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "videos": [
+                {
+                    "autoplay": true,
+                    "verticalAlign": "middle",
+                    "dataend": "01:02.53",
+                    "poster": "Medias/Posters/2_piril_1.mp4.jpg",
+                    "mediaWidth": 1920,
+                    "zIndex": 0,
+                    "id": "381CC389-C7EF-C8A4-1469-800B7FDEFA7B",
+                    "name": "2_piril_1.mp4",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "mediaHeight": 1080,
+                    "fitToWindow": true,
+                    "syncMaster": true,
+                    "volume": 1,
+                    "duration": "01:02.53",
+                    "player": true,
+                    "loop": false,
+                    "scaleMode": "zoom",
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/2_piril_1.mp4"
+                        }
+                    ],
+                    "frameRate": null,
+                    "databegin": "00:00.00"
+                }
+            ],
+            "duration": 62.528,
+            "color": "rgba(0,0,0,1)",
+            "id": "C8FE5A0F-72E4-7A8C-563B-800B7FDD2CB3"
         },
         "FB17B4A9-CBE1-FED7-E13D-7FE7B0660F11": {
             "hideInMindmap": false,
@@ -978,6 +1237,7 @@ klynt.data = {
                     "databegin": "00:00.00"
                 },
                 {
+                    "centerY": "-312.92",
                     "verticalAlign": "middle",
                     "dataend": "03:29.20",
                     "src": "Medias/Photos/HAKAN_IKON.png",
@@ -988,72 +1248,51 @@ klynt.data = {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "height": "224.59",
-                    "top": "4.55",
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
                     "mediaWidth": 1890,
-                    "scales": false,
+                    "scales": true,
                     "duration": "03:29.19",
-                    "width": "299.55",
-                    "left": "321.30",
+                    "centerX": "-0.88",
+                    "width": "549.26",
+                    "height": "411.81",
                     "name": "HAKAN_IKON.png",
                     "databegin": "00:00.01"
-                }
-            ],
-            "x": 365.1,
-            "size": "medium",
-            "y": 910.45,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 208.195,
-            "color": "rgba(0,0,0,1)",
-            "shapes": [
+                },
                 {
-                    "centerY": "-473.52",
+                    "centerY": "-316.49",
+                    "verticalAlign": "middle",
                     "dataend": "03:29.20",
-                    "link": {
-                        "hideInMindmap": true,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "E5CFBA2D-5D8C-E9F1-4EC9-7FF502444773",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "type": "default",
-                    "zIndex": 4,
+                    "src": "Medias/Photos/HAKAN_HOVER.png",
+                    "zIndex": 12,
+                    "id": "7B20A7C3-10FA-35AC-2370-805530BF926D",
+                    "mediaHeight": 1417,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "rollOver": [
-                        {
-                            "value": "1.1",
-                            "easing": "linear",
-                            "type": "layout",
-                            "duration": 0.5,
-                            "target": "C2B1433F-9E93-C528-1B87-7FF296AA446F",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "scale"
-                        }
-                    ],
-                    "style": {
-                        "opacity": 0,
-                        "backgroundColor": "rgba(233,66,77,0)"
-                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
                     "scales": true,
                     "duration": "03:29.19",
-                    "centerX": "727.50",
-                    "width": "417.27",
-                    "height": "63.41",
-                    "label": "sanatcilara don",
-                    "id": "1BB219FD-6039-D43C-52AE-7FF502439398",
+                    "centerX": "-4.43",
+                    "width": "568.06",
+                    "height": "426.28",
+                    "style": {
+                        "opacity": 0
+                    },
+                    "name": "HAKAN_HOVER.png",
                     "databegin": "00:00.01"
-                },
+                }
+            ],
+            "x": -74.36666666666662,
+            "size": "large",
+            "y": 922.65,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 208.195,
+            "color": "rgba(0,0,0,1)",
+            "shapes": [
                 {
                     "centerY": "405.21",
                     "dataend": "03:29.20",
@@ -1076,7 +1315,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 12,
+                    "zIndex": 13,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1128,7 +1367,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 13,
+                    "zIndex": 14,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1180,7 +1419,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 14,
+                    "zIndex": 15,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1232,7 +1471,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 15,
+                    "zIndex": 16,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1284,7 +1523,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 16,
+                    "zIndex": 17,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1336,7 +1575,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 17,
+                    "zIndex": 18,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1382,7 +1621,65 @@ klynt.data = {
                         "color": "rgba(0,0,0,1)"
                     },
                     "type": "default",
-                    "zIndex": 18,
+                    "zIndex": 19,
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "7B20A7C3-10FA-35AC-2370-805530BF926D",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "7B20A7C3-10FA-35AC-2370-805530BF926D",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "5.44",
+                    "width": "245.45",
+                    "height": "245.45",
+                    "label": "tanitim",
+                    "id": "C5980307-BD6A-AF0B-4B59-7FE7B06E3047",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-475.37",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": true,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "E5CFBA2D-5D8C-E9F1-4EC9-7FF502444773",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 20,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1393,7 +1690,7 @@ klynt.data = {
                             "easing": "linear",
                             "type": "layout",
                             "duration": 0.5,
-                            "target": "D46EA1DB-CAB8-EFC4-7C07-7FE8D85CA90F",
+                            "target": "C2B1433F-9E93-C528-1B87-7FF296AA446F",
                             "reversible": true,
                             "delay": 0,
                             "name": "scale"
@@ -1404,13 +1701,13 @@ klynt.data = {
                         "backgroundColor": "rgba(233,66,77,0)"
                     },
                     "scales": true,
-                    "duration": "03:29.20",
-                    "centerX": "5.45",
-                    "width": "245.45",
-                    "height": "245.45",
-                    "label": "tanitim",
-                    "id": "C5980307-BD6A-AF0B-4B59-7FE7B06E3047",
-                    "databegin": "00:00.00"
+                    "duration": "03:29.19",
+                    "centerX": "727.50",
+                    "width": "417.28",
+                    "height": "63.41",
+                    "label": "sanatcilara don",
+                    "id": "1BB219FD-6039-D43C-52AE-7FF502439398",
+                    "databegin": "00:00.01"
                 }
             ],
             "id": "FB17B4A9-CBE1-FED7-E13D-7FE7B0660F11",
@@ -1439,7 +1736,7 @@ klynt.data = {
                             "src": "Medias/Audios/3340-acid-trumpet-by-kevin-macleod.mp3"
                         }
                     ],
-                    "volume": 1,
+                    "volume": 0.6,
                     "mediaId": "D9C64CA9-573E-F33C-565D-7FC637C76156",
                     "databegin": "00:00.00"
                 }
@@ -1451,9 +1748,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "1_kemal",
-            "x": 759.85,
+            "x": 2430.75,
             "size": "medium",
-            "y": 1105.95,
+            "y": 1203.85,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -1492,15 +1789,62 @@ klynt.data = {
             "color": "rgba(0,0,0,1)",
             "id": "DD272658-B597-97BE-F700-7FB93DF24662"
         },
+        "034E970D-C58C-1FB5-EF7D-7FB93DF0D92B": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/1_hasan_1.mp4.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "1_hasan_1",
+            "x": 1444.35,
+            "size": "medium",
+            "y": 1161.3,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "videos": [
+                {
+                    "autoplay": true,
+                    "verticalAlign": "middle",
+                    "dataend": "00:16.53",
+                    "poster": "Medias/Posters/1_hasan_1.mp4.jpg",
+                    "mediaWidth": 1920,
+                    "zIndex": 0,
+                    "id": "A7E0BF61-7426-A6BA-70EA-7FB93DF19155",
+                    "name": "1_hasan_1.mp4",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "mediaHeight": 1080,
+                    "fitToWindow": true,
+                    "syncMaster": true,
+                    "volume": 1,
+                    "duration": "00:16.53",
+                    "player": true,
+                    "loop": false,
+                    "scaleMode": "zoom",
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/1_hasan_1.mp4"
+                        }
+                    ],
+                    "frameRate": null,
+                    "databegin": "00:00.00"
+                }
+            ],
+            "duration": 16.533,
+            "color": "rgba(0,0,0,1)",
+            "id": "034E970D-C58C-1FB5-EF7D-7FB93DF0D92B"
+        },
         "9A161650-6A79-0246-EFDE-7FB93E0E4469": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/4_cins_1.mp4.jpg",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "4_cins_1",
-            "x": 184.03333333333333,
+            "x": -1570.7,
             "size": "medium",
-            "y": 1798.7,
+            "y": 1883.75,
             "backgroundColor": "rgba(0,0,0,0.75)",
             "videos": [
                 {
@@ -1539,26 +1883,26 @@ klynt.data = {
             "color": "rgba(0,0,0,1)",
             "id": "9A161650-6A79-0246-EFDE-7FB93E0E4469"
         },
-        "63A07057-2FA5-0283-19A3-7FB93DE47493": {
+        "D67CB50A-56D8-4EE8-0F4F-800B7FE1C131": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/1_cins_1.mp4.jpg",
+            "thumbnail": "Medias/Thumbnails/piril_tanitim_1.mp4.jpg",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "1_cins_1",
-            "x": 159.83333333333334,
+            "title": "piril_tanitim",
+            "x": 457.2,
             "size": "medium",
-            "y": 1105.95,
-            "backgroundColor": "rgba(0,0,0,0.75)",
+            "y": -594.45,
+            "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
                     "autoplay": true,
                     "verticalAlign": "middle",
-                    "dataend": "00:35.09",
-                    "poster": "Medias/Posters/1_cins_1.mp4.jpg",
+                    "dataend": "00:36.37",
+                    "poster": "Medias/Posters/piril_tanitim_1.mp4.jpg",
                     "mediaWidth": 1920,
                     "zIndex": 0,
-                    "id": "AA8DB998-DFA1-BB8E-6774-7FB93DE5DD55",
-                    "name": "1_cins_1.mp4",
+                    "id": "FA3D4BA0-7908-077A-8229-800B7FE12807",
+                    "name": "piril_tanitim_1.mp4",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1568,23 +1912,35 @@ klynt.data = {
                     "fitToWindow": true,
                     "syncMaster": true,
                     "volume": 1,
-                    "duration": "00:35.09",
+                    "duration": "00:36.37",
                     "player": true,
                     "loop": false,
                     "scaleMode": "zoom",
                     "src": [
                         {
                             "type": "video/mp4",
-                            "src": "Medias/Videos/1_cins_1.mp4"
+                            "src": "Medias/Videos/piril_tanitim_1.mp4"
                         }
                     ],
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "650FF2AD-CD7C-84B9-656D-800BDF864875",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "F85AE271-130E-EEBA-DA6F-8024FB070C4E",
+                        "color": "rgba(0,0,0,1)"
+                    },
                     "frameRate": null,
                     "databegin": "00:00.00"
                 }
             ],
-            "duration": 35.093,
+            "duration": 36.373,
             "color": "rgba(0,0,0,1)",
-            "id": "63A07057-2FA5-0283-19A3-7FB93DE47493"
+            "id": "D67CB50A-56D8-4EE8-0F4F-800B7FE1C131"
         },
         "D3F7F89F-FA6F-4C00-B335-7FB84A16DC89": {
             "hideInMindmap": false,
@@ -1592,9 +1948,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "hasan_tanitim",
-            "x": 550.95,
+            "x": 846.6,
             "size": "medium",
-            "y": 720.1,
+            "y": 534.85,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -1616,7 +1972,7 @@ klynt.data = {
                     "syncMaster": true,
                     "volume": 1,
                     "duration": "00:26.77",
-                    "player": true,
+                    "player": false,
                     "loop": false,
                     "scaleMode": "zoom",
                     "src": [
@@ -1625,6 +1981,18 @@ klynt.data = {
                             "src": "Medias/Videos/hasan_tanitim.mp4"
                         }
                     ],
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "308DB92B-51AA-C075-1510-7FE7BE194886",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "E1B14570-A401-42A9-F6CA-8033EA026154",
+                        "color": "rgba(0,0,0,1)"
+                    },
                     "frameRate": null,
                     "databegin": "00:00.00"
                 }
@@ -1639,9 +2007,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "5_kemal",
-            "x": 787.3,
+            "x": 2458.2,
             "size": "medium",
-            "y": 1979.85,
+            "y": 2077.75,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -1686,9 +2054,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "1_hakan",
-            "x": 359.85,
+            "x": -551.1,
             "size": "medium",
-            "y": 1105.95,
+            "y": 1234.25,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -1727,26 +2095,26 @@ klynt.data = {
             "color": "rgba(0,0,0,1)",
             "id": "763C240A-3EAD-4269-07B3-7FB93DEE9FCD"
         },
-        "B9F260CD-D92B-7710-36DD-7FB93DFACEF1": {
+        "8AB97916-C838-C80E-3CA5-800B7FD1AE2B": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/2_hasan_1.mp4.jpg",
+            "thumbnail": "Medias/Thumbnails/5_piril_1.mp4.jpg",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "2_hasan_1",
-            "x": 564.65,
+            "title": "5_piril_1",
+            "x": 1704.45,
             "size": "medium",
-            "y": 1354.85,
+            "y": -194.3,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
                     "autoplay": true,
                     "verticalAlign": "middle",
-                    "dataend": "01:15.09",
-                    "poster": "Medias/Posters/2_hasan_1.mp4.jpg",
+                    "dataend": "03:24.93",
+                    "poster": "Medias/Posters/5_piril_1.mp4.jpg",
                     "mediaWidth": 1920,
                     "zIndex": 0,
-                    "id": "5D25EA12-8ECC-5FC6-8EEE-7FB93DFBAC78",
-                    "name": "2_hasan_1.mp4",
+                    "id": "1104F0DC-F07E-626C-DEA3-800B7FD36D44",
+                    "name": "5_piril_1.mp4",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -1756,23 +2124,117 @@ klynt.data = {
                     "fitToWindow": true,
                     "syncMaster": true,
                     "volume": 1,
-                    "duration": "01:15.09",
+                    "duration": "03:24.93",
                     "player": true,
                     "loop": false,
                     "scaleMode": "zoom",
                     "src": [
                         {
                             "type": "video/mp4",
-                            "src": "Medias/Videos/2_hasan_1.mp4"
+                            "src": "Medias/Videos/5_piril_1.mp4"
                         }
                     ],
                     "frameRate": null,
                     "databegin": "00:00.00"
                 }
             ],
-            "duration": 75.093,
+            "duration": 204.928,
             "color": "rgba(0,0,0,1)",
-            "id": "B9F260CD-D92B-7710-36DD-7FB93DFACEF1"
+            "id": "8AB97916-C838-C80E-3CA5-800B7FD1AE2B"
+        },
+        "5E4E3187-3412-7108-DC99-7FB93E1ADCEA": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/4_kemal.mp4.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "4_kemal",
+            "x": 2454.95,
+            "size": "medium",
+            "y": 1896.6,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "videos": [
+                {
+                    "autoplay": true,
+                    "verticalAlign": "middle",
+                    "dataend": "01:51.57",
+                    "poster": "Medias/Posters/4_kemal.mp4.jpg",
+                    "mediaWidth": 1920,
+                    "zIndex": 0,
+                    "id": "720192C7-5FDA-596B-C52E-7FB93E1BE408",
+                    "name": "4_kemal.mp4",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "mediaHeight": 1080,
+                    "fitToWindow": true,
+                    "syncMaster": true,
+                    "volume": 1,
+                    "duration": "01:51.57",
+                    "player": true,
+                    "loop": false,
+                    "scaleMode": "zoom",
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/4_kemal.mp4"
+                        }
+                    ],
+                    "frameRate": null,
+                    "databegin": "00:00.00"
+                }
+            ],
+            "duration": 111.573,
+            "color": "rgba(0,0,0,1)",
+            "id": "5E4E3187-3412-7108-DC99-7FB93E1ADCEA"
+        },
+        "63A07057-2FA5-0283-19A3-7FB93DE47493": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/1_cins_1.mp4.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "1_cins_1",
+            "x": -1594.9,
+            "size": "medium",
+            "y": 1191,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "videos": [
+                {
+                    "autoplay": true,
+                    "verticalAlign": "middle",
+                    "dataend": "00:35.09",
+                    "poster": "Medias/Posters/1_cins_1.mp4.jpg",
+                    "mediaWidth": 1920,
+                    "zIndex": 0,
+                    "id": "AA8DB998-DFA1-BB8E-6774-7FB93DE5DD55",
+                    "name": "1_cins_1.mp4",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "mediaHeight": 1080,
+                    "fitToWindow": true,
+                    "syncMaster": true,
+                    "volume": 1,
+                    "duration": "00:35.09",
+                    "player": true,
+                    "loop": false,
+                    "scaleMode": "zoom",
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/1_cins_1.mp4"
+                        }
+                    ],
+                    "frameRate": null,
+                    "databegin": "00:00.00"
+                }
+            ],
+            "duration": 35.093,
+            "color": "rgba(0,0,0,1)",
+            "id": "63A07057-2FA5-0283-19A3-7FB93DE47493"
         },
         "32E7546A-FE07-17DC-B9CA-7FCCE0CC5B33": {
             "hideInMindmap": false,
@@ -1780,9 +2242,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "5_hasan_1",
-            "x": 587.3,
+            "x": 1471.8,
             "size": "medium",
-            "y": 1979.85,
+            "y": 2035.2,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -1827,9 +2289,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "3_hakan",
-            "x": 372.5,
+            "x": -538.45,
             "size": "medium",
-            "y": 1583.8,
+            "y": 1712.1,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -1868,15 +2330,62 @@ klynt.data = {
             "color": "rgba(0,0,0,1)",
             "id": "CD27B5F4-55D8-291C-B251-7FB93E05DCD3"
         },
+        "9A683ED7-26D2-BA7D-9384-800B7FDB05B1": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/3_piril_1.mp4.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "3_piril_1",
+            "x": 1250,
+            "size": "medium",
+            "y": -192.3,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "videos": [
+                {
+                    "autoplay": true,
+                    "verticalAlign": "middle",
+                    "dataend": "01:00.39",
+                    "poster": "Medias/Posters/3_piril_1.mp4.jpg",
+                    "mediaWidth": 1920,
+                    "zIndex": 0,
+                    "id": "3D4573AF-801A-4480-DAC7-800B7FDC6705",
+                    "name": "3_piril_1.mp4",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "mediaHeight": 1080,
+                    "fitToWindow": true,
+                    "syncMaster": true,
+                    "volume": 1,
+                    "duration": "01:00.39",
+                    "player": true,
+                    "loop": false,
+                    "scaleMode": "zoom",
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/3_piril_1.mp4"
+                        }
+                    ],
+                    "frameRate": null,
+                    "databegin": "00:00.00"
+                }
+            ],
+            "duration": 60.394,
+            "color": "rgba(0,0,0,1)",
+            "id": "9A683ED7-26D2-BA7D-9384-800B7FDB05B1"
+        },
         "368EB2F5-FF7C-CDFD-670F-7FB93E0BC1CE": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/3_kemal.mp4.jpg",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "3_kemal",
-            "x": 772.5,
+            "x": 2443.4,
             "size": "medium",
-            "y": 1591,
+            "y": 1688.9,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -1921,9 +2430,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "6_hasan_1",
-            "x": 585.95,
+            "x": 1470.45,
             "size": "medium",
-            "y": 2156.4,
+            "y": 2211.75,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -1962,15 +2471,170 @@ klynt.data = {
             "color": "rgba(0,0,0,1)",
             "id": "01DFC3D6-72A2-FDC9-794E-7FCCE0D25D95"
         },
+        "DFC05F51-DBFD-C6F1-67FA-800BBA1ECE7E": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/piril_tanitim_1.mp4.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "piril",
+            "images": [
+                {
+                    "centerY": "-13.44",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/PIRIL_IKON.png",
+                    "zIndex": 1,
+                    "id": "2A38D758-A442-B661-7D98-801BFCF6D654",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "46.77",
+                    "width": "1331.30",
+                    "height": "1331.30",
+                    "name": "PIRIL_IKON.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-26.69",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/PIRIL_HOVER.png",
+                    "zIndex": 2,
+                    "id": "EA68C35D-3DBA-7902-B40C-801BFCF5005B",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "26.54",
+                    "width": "1342.89",
+                    "height": "1342.89",
+                    "style": {
+                        "opacity": 0
+                    },
+                    "name": "PIRIL_HOVER.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 457.5,
+            "size": "medium",
+            "y": -909.35,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "duration": 208.195,
+            "color": "rgba(0,0,0,1)",
+            "shapes": [
+                {
+                    "centerY": "-20.65",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "D67CB50A-56D8-4EE8-0F4F-800B7FE1C131",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "336B8DDF-07AD-9E50-6BE5-80240BD496D0",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 4,
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "EA68C35D-3DBA-7902-B40C-801BFCF5005B",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "EA68C35D-3DBA-7902-B40C-801BFCF5005B",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,1)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "25.72",
+                    "width": "615.68",
+                    "height": "540.00",
+                    "label": "piril tanitim",
+                    "id": "9C83FC8E-6B6E-240A-0712-8023DCF99AEE",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "id": "DFC05F51-DBFD-C6F1-67FA-800BBA1ECE7E",
+            "audios": [
+                {
+                    "right": "0.00",
+                    "dataend": "03:28.20",
+                    "left": "0.00",
+                    "zIndex": 3,
+                    "id": "4123F53B-499C-B28A-DB2B-801BC2B9BBB2",
+                    "name": "3340-acid-trumpet-by-kevin-macleod.mp3",
+                    "height": "30.00",
+                    "sequenceEndVolume": 1,
+                    "player": false,
+                    "overlayVolume": 1,
+                    "bottom": "0.00",
+                    "syncMaster": true,
+                    "continuous": false,
+                    "scales": false,
+                    "duration": "03:28.20",
+                    "autoplay": true,
+                    "loop": true,
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/3340-acid-trumpet-by-kevin-macleod.mp3"
+                        }
+                    ],
+                    "volume": 0.6,
+                    "mediaId": "D9C64CA9-573E-F33C-565D-7FC637C76156",
+                    "databegin": "00:00.00"
+                }
+            ]
+        },
         "A550FFAD-13C7-6C27-53F0-7FCCE0B970EE": {
             "hideInMindmap": false,
             "thumbnail": "Medias/Thumbnails/5_cins_1.mp4.jpg",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "5_cins_1",
-            "x": 187.28333333333333,
+            "x": -1567.45,
             "size": "medium",
-            "y": 1979.85,
+            "y": 2064.9,
             "backgroundColor": "rgba(0,0,0,0.75)",
             "videos": [
                 {
@@ -2015,9 +2679,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "4_hasan_1",
-            "x": 584.05,
+            "x": 1468.55,
             "size": "medium",
-            "y": 1798.7,
+            "y": 1854.05,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -2225,6 +2889,7 @@ klynt.data = {
                     "databegin": "00:00.00"
                 },
                 {
+                    "centerY": "-318.54",
                     "verticalAlign": "middle",
                     "dataend": "03:29.20",
                     "src": "Medias/Photos/KEMAL_IKON.png",
@@ -2235,72 +2900,51 @@ klynt.data = {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "height": "233.36",
-                    "top": "2.10",
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
                     "mediaWidth": 1890,
-                    "scales": false,
+                    "scales": true,
                     "duration": "03:29.18",
-                    "width": "311.25",
-                    "left": "309.70",
+                    "centerX": "1.41",
+                    "width": "570.71",
+                    "height": "427.89",
                     "name": "KEMAL_IKON.png",
                     "databegin": "00:00.01"
-                }
-            ],
-            "x": 761.3,
-            "size": "medium",
-            "y": 904.65,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 208.195,
-            "color": "rgba(0,0,0,1)",
-            "shapes": [
+                },
                 {
-                    "centerY": "-473.52",
+                    "centerY": "-314.04",
+                    "verticalAlign": "middle",
                     "dataend": "03:29.20",
-                    "link": {
-                        "hideInMindmap": true,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "9DB38E5B-5DA1-A1A0-FDF9-7FF56058CBA0",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "type": "default",
-                    "zIndex": 5,
+                    "src": "Medias/Photos/KEMAL_HOVER.png",
+                    "zIndex": 12,
+                    "id": "39D40A15-2D64-15D2-8EEA-805807560C27",
+                    "mediaHeight": 1417,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "rollOver": [
-                        {
-                            "value": "1.1",
-                            "easing": "linear",
-                            "type": "layout",
-                            "duration": 0.5,
-                            "target": "C2B1433F-9E93-C528-1B87-7FF296AA446F",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "scale"
-                        }
-                    ],
-                    "style": {
-                        "opacity": 0,
-                        "backgroundColor": "rgba(233,66,77,0)"
-                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
                     "scales": true,
                     "duration": "03:29.19",
-                    "centerX": "727.50",
-                    "width": "417.27",
-                    "height": "63.41",
-                    "label": "sanatcilara don",
-                    "id": "37434B5B-1E31-0CF4-35E4-7FF56057DE1C",
+                    "centerX": "26.44",
+                    "width": "575.54",
+                    "height": "460.44",
+                    "style": {
+                        "opacity": 0
+                    },
+                    "name": "KEMAL_HOVER.png",
                     "databegin": "00:00.01"
-                },
+                }
+            ],
+            "x": 1917.5833333333335,
+            "size": "large",
+            "y": 887.15,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 208.195,
+            "color": "rgba(0,0,0,1)",
+            "shapes": [
                 {
                     "centerY": "405.21",
                     "dataend": "03:29.20",
@@ -2323,7 +2967,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 12,
+                    "zIndex": 13,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -2375,7 +3019,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 13,
+                    "zIndex": 14,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -2427,7 +3071,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 14,
+                    "zIndex": 15,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -2479,7 +3123,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 15,
+                    "zIndex": 16,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -2531,7 +3175,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 16,
+                    "zIndex": 17,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -2583,7 +3227,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 17,
+                    "zIndex": 18,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -2614,7 +3258,7 @@ klynt.data = {
                     "databegin": "00:00.00"
                 },
                 {
-                    "centerY": "-312.95",
+                    "centerY": "-323.96",
                     "dataend": "03:29.20",
                     "link": {
                         "hideInMindmap": false,
@@ -2629,7 +3273,65 @@ klynt.data = {
                         "color": "rgba(0,0,0,1)"
                     },
                     "type": "default",
-                    "zIndex": 18,
+                    "zIndex": 19,
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "39D40A15-2D64-15D2-8EEA-805807560C27",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "39D40A15-2D64-15D2-8EEA-805807560C27",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "10.95",
+                    "width": "245.45",
+                    "height": "245.45",
+                    "label": "tanitim",
+                    "id": "6686A685-9EBA-E7D6-359D-7FE7CA3CEFCA",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-473.52",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": true,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "9DB38E5B-5DA1-A1A0-FDF9-7FF56058CBA0",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 20,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -2640,7 +3342,7 @@ klynt.data = {
                             "easing": "linear",
                             "type": "layout",
                             "duration": 0.5,
-                            "target": "CE48A72B-FA0F-B584-5A12-7FEDC96C8F84",
+                            "target": "C2B1433F-9E93-C528-1B87-7FF296AA446F",
                             "reversible": true,
                             "delay": 0,
                             "name": "scale"
@@ -2651,13 +3353,13 @@ klynt.data = {
                         "backgroundColor": "rgba(233,66,77,0)"
                     },
                     "scales": true,
-                    "duration": "03:29.20",
-                    "centerX": "5.45",
-                    "width": "245.45",
-                    "height": "245.45",
-                    "label": "tanitim",
-                    "id": "6686A685-9EBA-E7D6-359D-7FE7CA3CEFCA",
-                    "databegin": "00:00.00"
+                    "duration": "03:29.19",
+                    "centerX": "727.50",
+                    "width": "417.27",
+                    "height": "63.41",
+                    "label": "sanatcilara don",
+                    "id": "37434B5B-1E31-0CF4-35E4-7FF56057DE1C",
+                    "databegin": "00:00.01"
                 }
             ],
             "id": "908E6FF5-16CD-5E0C-A93B-7FE7CA3AAC08",
@@ -2686,7 +3388,7 @@ klynt.data = {
                             "src": "Medias/Audios/3340-acid-trumpet-by-kevin-macleod.mp3"
                         }
                     ],
-                    "volume": 1,
+                    "volume": 0.6,
                     "mediaId": "D9C64CA9-573E-F33C-565D-7FC637C76156",
                     "databegin": "00:00.00"
                 }
@@ -2698,9 +3400,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "3_hasan_1",
-            "x": 572.5,
+            "x": 1457,
             "size": "medium",
-            "y": 1583.8,
+            "y": 1639.15,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -2739,26 +3441,26 @@ klynt.data = {
             "color": "rgba(0,0,0,1)",
             "id": "4834138E-1739-4778-CBE1-7FB93E08DDD3"
         },
-        "5E4E3187-3412-7108-DC99-7FB93E1ADCEA": {
+        "B9F260CD-D92B-7710-36DD-7FB93DFACEF1": {
             "hideInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/4_kemal.mp4.jpg",
+            "thumbnail": "Medias/Thumbnails/2_hasan_1.mp4.jpg",
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
-            "title": "4_kemal",
-            "x": 784.05,
+            "title": "2_hasan_1",
+            "x": 1449.15,
             "size": "medium",
-            "y": 1798.7,
+            "y": 1410.2,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
                     "autoplay": true,
                     "verticalAlign": "middle",
-                    "dataend": "01:51.57",
-                    "poster": "Medias/Posters/4_kemal.mp4.jpg",
+                    "dataend": "01:15.09",
+                    "poster": "Medias/Posters/2_hasan_1.mp4.jpg",
                     "mediaWidth": 1920,
                     "zIndex": 0,
-                    "id": "720192C7-5FDA-596B-C52E-7FB93E1BE408",
-                    "name": "4_kemal.mp4",
+                    "id": "5D25EA12-8ECC-5FC6-8EEE-7FB93DFBAC78",
+                    "name": "2_hasan_1.mp4",
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -2768,23 +3470,716 @@ klynt.data = {
                     "fitToWindow": true,
                     "syncMaster": true,
                     "volume": 1,
-                    "duration": "01:51.57",
+                    "duration": "01:15.09",
                     "player": true,
                     "loop": false,
                     "scaleMode": "zoom",
                     "src": [
                         {
                             "type": "video/mp4",
-                            "src": "Medias/Videos/4_kemal.mp4"
+                            "src": "Medias/Videos/2_hasan_1.mp4"
                         }
                     ],
                     "frameRate": null,
                     "databegin": "00:00.00"
                 }
             ],
-            "duration": 111.573,
+            "duration": 75.093,
             "color": "rgba(0,0,0,1)",
-            "id": "5E4E3187-3412-7108-DC99-7FB93E1ADCEA"
+            "id": "B9F260CD-D92B-7710-36DD-7FB93DFACEF1"
+        },
+        "C7BFFF6E-CF09-C5A0-88CC-800B7FD50E32": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/4_piril_1.mp4.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "4_piril_1",
+            "x": 1504.6,
+            "size": "medium",
+            "y": -192.6,
+            "backgroundColor": "rgba(0,0,0,1)",
+            "videos": [
+                {
+                    "autoplay": true,
+                    "verticalAlign": "middle",
+                    "dataend": "02:25.88",
+                    "poster": "Medias/Posters/4_piril_1.mp4.jpg",
+                    "mediaWidth": 1920,
+                    "zIndex": 0,
+                    "id": "4F13E4C0-2FD9-DF01-41FB-800B7FD6686B",
+                    "name": "4_piril_1.mp4",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "mediaHeight": 1080,
+                    "fitToWindow": true,
+                    "syncMaster": true,
+                    "volume": 1,
+                    "duration": "02:25.88",
+                    "player": true,
+                    "loop": false,
+                    "scaleMode": "zoom",
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/4_piril_1.mp4"
+                        }
+                    ],
+                    "frameRate": null,
+                    "databegin": "00:00.00"
+                }
+            ],
+            "duration": 145.877,
+            "color": "rgba(0,0,0,1)",
+            "id": "C7BFFF6E-CF09-C5A0-88CC-800B7FD50E32"
+        },
+        "650FF2AD-CD7C-84B9-656D-800BDF864875": {
+            "hideInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/cins_tanitim.mp4.jpg",
+            "hideThumbnailInMindmap": false,
+            "hideTitleInMindmap": false,
+            "title": "piril_sorular",
+            "images": [
+                {
+                    "centerY": "-311.00",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/CINS_IKON.png",
+                    "zIndex": 3,
+                    "id": "8CEBD390-6631-BFCA-C26F-800BDF88614C",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "-2.00",
+                    "width": "600.00",
+                    "height": "449.00",
+                    "name": "CINS_IKON.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "437.86",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/p_soru_5.png",
+                    "zIndex": 5,
+                    "id": "1C3E57A9-9C14-EC3E-D3F3-800EE558B07E",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "360.75",
+                    "width": "1142.39",
+                    "height": "856.49",
+                    "name": "p_soru_5.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "269.48",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/p_soru_4.png",
+                    "zIndex": 6,
+                    "id": "6B01B7D7-8422-A673-D6F8-800EE5592CD3",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "-265.83",
+                    "width": "1089.90",
+                    "height": "817.14",
+                    "name": "p_soru_4.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "8.10",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/p_soru_3.png",
+                    "zIndex": 7,
+                    "id": "66D47AA3-9708-A476-528D-801181486CAA",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.19",
+                    "centerX": "-87.00",
+                    "width": "1563.34",
+                    "height": "1172.09",
+                    "name": "p_soru_3.png",
+                    "databegin": "00:00.01"
+                },
+                {
+                    "centerY": "-154.09",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/p_soru_2.png",
+                    "zIndex": 8,
+                    "id": "D0B61778-66EF-F001-DCC3-800EE55AB087",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "530.90",
+                    "width": "1460.80",
+                    "height": "1095.20",
+                    "name": "p_soru_2.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-293.66",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/p_soru_1.png",
+                    "zIndex": 9,
+                    "id": "D4441AF3-E5E3-C6D0-7368-800EE55B4572",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "-558.92",
+                    "width": "1050.08",
+                    "height": "1050.08",
+                    "name": "p_soru_1.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-308.86",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/PIRIL_IKON.png",
+                    "zIndex": 10,
+                    "id": "0E6D2B05-A7D2-FFEA-3FB3-80145E5B42C3",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "3E20BDEA-466B-A77A-7C93-80145E5CF247",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "horizontalAlign": "center",
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "3E20BDEA-466B-A77A-7C93-80145E5CF247",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "17.73",
+                    "width": "511.36",
+                    "height": "511.36",
+                    "name": "PIRIL_IKON.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-317.05",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/PIRIL_HOVER.png",
+                    "zIndex": 11,
+                    "id": "3E20BDEA-466B-A77A-7C93-80145E5CF247",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "11.59",
+                    "width": "531.82",
+                    "height": "531.82",
+                    "style": {
+                        "opacity": 0
+                    },
+                    "name": "PIRIL_HOVER.png",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-417.45",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.20",
+                    "src": "Medias/Photos/ileri.png",
+                    "zIndex": 12,
+                    "id": "9C49EEDE-66EA-0A48-8FA8-8018E2D0ABE6",
+                    "mediaHeight": 1417,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "791.00",
+                    "width": "398.43",
+                    "height": "940.97",
+                    "name": "ileri.png",
+                    "databegin": "00:00.00"
+                }
+            ],
+            "x": 454.8833333333334,
+            "size": "large",
+            "y": -187.55,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 208.195,
+            "color": "rgba(0,0,0,1)",
+            "shapes": [
+                {
+                    "centerY": "405.21",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": true,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "1B823268-A802-8096-06F2-800BDF8B63D1",
+                        "targetSequence": "8AB97916-C838-C80E-3CA5-800B7FD1AE2B",
+                        "closeButton": true,
+                        "automaticClose": true,
+                        "transition": "fade",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "type": "default",
+                    "zIndex": 13,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1.1",
+                            "easing": "linear",
+                            "type": "layout",
+                            "duration": 0.5,
+                            "target": "1C3E57A9-9C14-EC3E-D3F3-800EE558B07E",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "scale"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "374.84",
+                    "width": "900.37",
+                    "height": "60.36",
+                    "label": "soru5",
+                    "id": "B0135BC6-A97C-22CE-1943-800BDF88D340",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "256.93",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": true,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "2571BA46-F519-0F6B-DB95-800BDF8CB44D",
+                        "targetSequence": "C7BFFF6E-CF09-C5A0-88CC-800B7FD50E32",
+                        "closeButton": true,
+                        "automaticClose": true,
+                        "transition": "fade",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "type": "default",
+                    "zIndex": 14,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1.1",
+                            "easing": "linear",
+                            "type": "layout",
+                            "duration": 0.5,
+                            "target": "6B01B7D7-8422-A673-D6F8-800EE5592CD3",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "scale"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "-255.16",
+                    "width": "994.46",
+                    "height": "99.25",
+                    "label": "soru4",
+                    "id": "8229D0A2-7640-2522-3D0E-800BDF8861DC",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "6.35",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": true,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "F352FCBB-100F-6FE6-E72F-800BDF8C7D58",
+                        "targetSequence": "9A683ED7-26D2-BA7D-9384-800B7FDB05B1",
+                        "closeButton": true,
+                        "automaticClose": true,
+                        "transition": "fade",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "type": "default",
+                    "zIndex": 15,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1.1",
+                            "easing": "linear",
+                            "type": "layout",
+                            "duration": 0.5,
+                            "target": "66D47AA3-9708-A476-528D-801181486CAA",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "scale"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "-77.21",
+                    "width": "1182.62",
+                    "height": "80.82",
+                    "label": "soru3",
+                    "id": "505DE93C-C4C7-DBF4-6803-800BDF89118E",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-214.65",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": true,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "4D473B24-0282-1838-F0EF-800BDF979479",
+                        "targetSequence": "C8FE5A0F-72E4-7A8C-563B-800B7FDD2CB3",
+                        "closeButton": true,
+                        "automaticClose": true,
+                        "transition": "fade",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "type": "default",
+                    "zIndex": 16,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1.1",
+                            "easing": "linear",
+                            "type": "layout",
+                            "duration": 0.5,
+                            "target": "D0B61778-66EF-F001-DCC3-800EE55AB087",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "scale"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "536.54",
+                    "width": "421.73",
+                    "height": "72.65",
+                    "label": "soru2",
+                    "id": "6EAAE7F9-64C6-4C81-3BB3-800BDF893E2A",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-347.52",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": true,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "id": "3EBFDC9D-097E-22A8-4F1A-800BDF98B9FA",
+                        "targetSequence": "C742455B-8488-8589-96C2-800B7FDFE687",
+                        "closeButton": true,
+                        "automaticClose": true,
+                        "transition": "fade",
+                        "color": "rgba(0,0,0,1)",
+                        "closeButtonTop": 16,
+                        "closeButtonRight": 16,
+                        "automaticTransition": false,
+                        "pauseParent": true,
+                        "linkType": "linkToSequence",
+                        "overlay": true,
+                        "controlDX": 0
+                    },
+                    "type": "default",
+                    "zIndex": 17,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1.1",
+                            "easing": "linear",
+                            "type": "layout",
+                            "duration": 0.5,
+                            "target": "D4441AF3-E5E3-C6D0-7368-800EE55B4572",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "scale"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.20",
+                    "centerX": "-539.32",
+                    "width": "573.10",
+                    "height": "64.45",
+                    "label": "soru1",
+                    "id": "4C4AC3A9-DB0F-E43A-19F0-800BDF89B3A4",
+                    "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-312.95",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "D67CB50A-56D8-4EE8-0F4F-800B7FE1C131",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "09DDA4B4-3FED-1465-EC04-800BDF980FE5",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 18,
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "3E20BDEA-466B-A77A-7C93-80145E5CF247",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "3E20BDEA-466B-A77A-7C93-80145E5CF247",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.19",
+                    "centerX": "5.45",
+                    "width": "245.45",
+                    "height": "245.45",
+                    "label": "tanitim",
+                    "id": "E01EE32A-FC91-3E47-3E16-800BDF896DFB",
+                    "databegin": "00:00.01"
+                },
+                {
+                    "centerY": "-446.93",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "D480A5FA-3F34-FA8D-C4CF-80199B63BD4C",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 19,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1.1",
+                            "easing": "linear",
+                            "type": "layout",
+                            "duration": 0.5,
+                            "target": "9C49EEDE-66EA-0A48-8FA8-8018E2D0ABE6",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "scale"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.19",
+                    "centerX": "786.82",
+                    "width": "155.45",
+                    "height": "83.86",
+                    "label": "ileri",
+                    "id": "6DA4BD5D-3690-9D8F-218A-80199B62E2CA",
+                    "databegin": "00:00.01"
+                }
+            ],
+            "id": "650FF2AD-CD7C-84B9-656D-800BDF864875",
+            "audios": [
+                {
+                    "right": "0.00",
+                    "dataend": "03:28.20",
+                    "left": "0.00",
+                    "zIndex": 0,
+                    "id": "1EEB70B1-207E-44A1-7986-800BDF871FB5",
+                    "name": "3340-acid-trumpet-by-kevin-macleod.mp3",
+                    "height": "30.00",
+                    "sequenceEndVolume": 1,
+                    "player": false,
+                    "overlayVolume": 1,
+                    "bottom": "0.00",
+                    "syncMaster": true,
+                    "continuous": false,
+                    "scales": false,
+                    "duration": "03:28.20",
+                    "autoplay": true,
+                    "loop": true,
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/3340-acid-trumpet-by-kevin-macleod.mp3"
+                        }
+                    ],
+                    "volume": 0.6,
+                    "mediaId": "D9C64CA9-573E-F33C-565D-7FC637C76156",
+                    "databegin": "00:00.00"
+                }
+            ]
         },
         "3B5AC17B-D724-DDFD-59A3-7FB84A0F3839": {
             "hideInMindmap": false,
@@ -2792,9 +4187,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "cins_tanitim",
-            "x": 159.1,
+            "x": -679.05,
             "size": "medium",
-            "y": 719.3,
+            "y": 545.9,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -2816,7 +4211,7 @@ klynt.data = {
                     "syncMaster": true,
                     "volume": 1,
                     "duration": "00:28.25",
-                    "player": true,
+                    "player": false,
                     "loop": false,
                     "scaleMode": "zoom",
                     "src": [
@@ -2851,9 +4246,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "hakan_tanitim",
-            "x": 364.05,
+            "x": 4.650000000000006,
             "size": "medium",
-            "y": 719.25,
+            "y": 577.3,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -2875,7 +4270,7 @@ klynt.data = {
                     "syncMaster": true,
                     "volume": 1,
                     "duration": "00:39.04",
-                    "player": true,
+                    "player": false,
                     "loop": false,
                     "scaleMode": "zoom",
                     "src": [
@@ -2884,6 +4279,18 @@ klynt.data = {
                             "src": "Medias/Videos/hakan_tanitim.mp4"
                         }
                     ],
+                    "link": {
+                        "hideInMindmap": false,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "FB17B4A9-CBE1-FED7-E13D-7FE7B0660F11",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "8EF8EC92-5BCA-D521-6061-8033955D883F",
+                        "color": "rgba(0,0,0,1)"
+                    },
                     "frameRate": null,
                     "databegin": "00:00.00"
                 }
@@ -2898,9 +4305,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "5_hakan",
-            "x": 387.3,
+            "x": -523.7,
             "size": "medium",
-            "y": 1979.85,
+            "y": 2108.15,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -2945,9 +4352,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "6_cins_1",
-            "x": 185.93333333333334,
+            "x": -1568.8,
             "size": "medium",
-            "y": 2156.4,
+            "y": 2241.45,
             "backgroundColor": "rgba(0,0,0,0.75)",
             "videos": [
                 {
@@ -2992,9 +4399,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "6_kemal",
-            "x": 785.95,
+            "x": 2456.85,
             "size": "medium",
-            "y": 2156.4,
+            "y": 2254.3,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -3039,9 +4446,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "3_cins_1",
-            "x": 172.48333333333335,
+            "x": -1582.3,
             "size": "medium",
-            "y": 1583.8,
+            "y": 1668.85,
             "backgroundColor": "rgba(0,0,0,0.75)",
             "videos": [
                 {
@@ -3249,6 +4656,7 @@ klynt.data = {
                     "databegin": "00:00.00"
                 },
                 {
+                    "centerY": "-338.09",
                     "verticalAlign": "middle",
                     "dataend": "03:29.20",
                     "src": "Medias/Photos/HASAN_IKON.png",
@@ -3259,72 +4667,51 @@ klynt.data = {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "height": "220.23",
-                    "top": "-2.00",
                     "horizontalAlign": "center",
                     "scaleMode": "zoom",
                     "mediaWidth": 1890,
-                    "scales": false,
+                    "scales": true,
                     "duration": "03:29.19",
-                    "width": "293.74",
-                    "left": "322.80",
+                    "centerX": "7.54",
+                    "width": "538.61",
+                    "height": "403.82",
                     "name": "HASAN_IKON.png",
                     "databegin": "00:00.01"
-                }
-            ],
-            "x": 560.85,
-            "size": "medium",
-            "y": 906.5,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 208.195,
-            "color": "rgba(0,0,0,1)",
-            "shapes": [
+                },
                 {
-                    "centerY": "-473.52",
+                    "centerY": "-322.04",
+                    "verticalAlign": "middle",
                     "dataend": "03:29.20",
-                    "link": {
-                        "hideInMindmap": true,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "26B05D56-827C-30B4-CD62-7FF53836E4D9",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "type": "default",
-                    "zIndex": 4,
+                    "src": "Medias/Photos/HASAN_HOVER.png",
+                    "zIndex": 12,
+                    "id": "903317E8-21B6-7103-44C8-8056AFBE749A",
+                    "mediaHeight": 1417,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "rollOver": [
-                        {
-                            "value": "1.1",
-                            "easing": "linear",
-                            "type": "layout",
-                            "duration": 0.5,
-                            "target": "C2B1433F-9E93-C528-1B87-7FF296AA446F",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "scale"
-                        }
-                    ],
-                    "style": {
-                        "opacity": 0,
-                        "backgroundColor": "rgba(233,66,77,0)"
-                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
                     "scales": true,
                     "duration": "03:29.19",
-                    "centerX": "727.50",
-                    "width": "417.27",
-                    "height": "63.41",
-                    "label": "sanatcilara don",
-                    "id": "48298847-0326-CDEF-5277-7FF538360450",
+                    "centerX": "0.27",
+                    "width": "569.47",
+                    "height": "426.07",
+                    "style": {
+                        "opacity": 0
+                    },
+                    "name": "HASAN_HOVER.png",
                     "databegin": "00:00.01"
-                },
+                }
+            ],
+            "x": 986.1333333333333,
+            "size": "large",
+            "y": 916.05,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 208.195,
+            "color": "rgba(0,0,0,1)",
+            "shapes": [
                 {
                     "centerY": "405.21",
                     "dataend": "03:29.20",
@@ -3347,7 +4734,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 12,
+                    "zIndex": 13,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -3399,7 +4786,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 13,
+                    "zIndex": 14,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -3451,7 +4838,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 14,
+                    "zIndex": 15,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -3503,7 +4890,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 15,
+                    "zIndex": 16,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -3555,7 +4942,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 16,
+                    "zIndex": 17,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -3607,7 +4994,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 17,
+                    "zIndex": 18,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -3653,7 +5040,19 @@ klynt.data = {
                         "color": "rgba(0,0,0,1)"
                     },
                     "type": "default",
-                    "zIndex": 18,
+                    "zIndex": 19,
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "903317E8-21B6-7103-44C8-8056AFBE749A",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -3662,12 +5061,12 @@ klynt.data = {
                         {
                             "value": "1",
                             "easing": "linear",
-                            "type": "layout",
+                            "type": "style",
                             "duration": 0.5,
-                            "target": "8C50334C-5362-8B99-AE15-7FEBC13D134B",
+                            "target": "903317E8-21B6-7103-44C8-8056AFBE749A",
                             "reversible": true,
                             "delay": 0,
-                            "name": "scale"
+                            "name": "opacity"
                         }
                     ],
                     "style": {
@@ -3682,6 +5081,52 @@ klynt.data = {
                     "label": "tanitim",
                     "id": "BF37141F-8D28-55EB-B140-7FE7BE1CFB49",
                     "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-473.52",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": true,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "26B05D56-827C-30B4-CD62-7FF53836E4D9",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 20,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1.1",
+                            "easing": "linear",
+                            "type": "layout",
+                            "duration": 0.5,
+                            "target": "C2B1433F-9E93-C528-1B87-7FF296AA446F",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "scale"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.19",
+                    "centerX": "727.50",
+                    "width": "417.27",
+                    "height": "63.41",
+                    "label": "sanatcilara don",
+                    "id": "48298847-0326-CDEF-5277-7FF538360450",
+                    "databegin": "00:00.01"
                 }
             ],
             "id": "308DB92B-51AA-C075-1510-7FE7BE194886",
@@ -3710,7 +5155,7 @@ klynt.data = {
                             "src": "Medias/Audios/3340-acid-trumpet-by-kevin-macleod.mp3"
                         }
                     ],
-                    "volume": 1,
+                    "volume": 0.6,
                     "mediaId": "D9C64CA9-573E-F33C-565D-7FC637C76156",
                     "databegin": "00:00.00"
                 }
@@ -3722,9 +5167,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "2_hakan",
-            "x": 364.65,
+            "x": -546.3,
             "size": "medium",
-            "y": 1354.85,
+            "y": 1483.15,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -3932,7 +5377,7 @@ klynt.data = {
                     "databegin": "00:00.00"
                 },
                 {
-                    "centerY": "-311.00",
+                    "centerY": "-311.01",
                     "verticalAlign": "middle",
                     "dataend": "03:29.20",
                     "src": "Medias/Photos/CINS_IKON.png",
@@ -3948,66 +5393,46 @@ klynt.data = {
                     "mediaWidth": 1890,
                     "scales": true,
                     "duration": "03:29.20",
-                    "centerX": "-2.00",
-                    "width": "600.00",
+                    "centerX": "-1.99",
+                    "width": "600.01",
                     "height": "449.00",
                     "name": "CINS_IKON.png",
                     "databegin": "00:00.00"
-                }
-            ],
-            "x": 157,
-            "size": "medium",
-            "y": 897.1,
-            "backgroundColor": "rgba(0,0,0,0.75)",
-            "duration": 208.195,
-            "color": "rgba(0,0,0,1)",
-            "shapes": [
+                },
                 {
-                    "centerY": "-473.52",
-                    "dataend": "03:29.20",
-                    "link": {
-                        "hideInMindmap": true,
-                        "controlDY": 0,
-                        "hideArrowInMindmap": false,
-                        "automaticTransition": false,
-                        "controlDX": 0,
-                        "targetSequence": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "id": "F8D12783-4ABC-5E19-9CAD-7FF3DF2CEE31",
-                        "color": "rgba(0,0,0,1)"
-                    },
-                    "type": "default",
-                    "zIndex": 2,
+                    "centerY": "-315.22",
+                    "verticalAlign": "middle",
+                    "dataend": "03:29.46",
+                    "src": "Medias/Photos/CINS_HOVER.png",
+                    "zIndex": 10,
+                    "id": "86697CA4-97E2-0397-4987-805325A3231C",
+                    "mediaHeight": 1417,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
-                    "rollOver": [
-                        {
-                            "value": "1.1",
-                            "easing": "linear",
-                            "type": "layout",
-                            "duration": 0.5,
-                            "target": "C2B1433F-9E93-C528-1B87-7FF296AA446F",
-                            "reversible": true,
-                            "delay": 0,
-                            "name": "scale"
-                        }
-                    ],
-                    "style": {
-                        "opacity": 0,
-                        "backgroundColor": "rgba(233,66,77,0)"
-                    },
+                    "horizontalAlign": "center",
+                    "scaleMode": "zoom",
+                    "mediaWidth": 1890,
                     "scales": true,
-                    "duration": "03:29.19",
-                    "centerX": "727.50",
-                    "width": "417.27",
-                    "height": "63.41",
-                    "label": "sanatcilara don",
-                    "id": "D92DEAEB-BFFD-4873-4A93-7FF308C25E33",
+                    "duration": "03:29.45",
+                    "centerX": "-15.67",
+                    "width": "611.82",
+                    "height": "449.56",
+                    "style": {
+                        "opacity": 0
+                    },
+                    "name": "CINS_HOVER.png",
                     "databegin": "00:00.01"
-                },
+                }
+            ],
+            "x": -879.6666666666666,
+            "size": "large",
+            "y": 936.7,
+            "backgroundColor": "rgba(0,0,0,0.75)",
+            "duration": 208.195,
+            "color": "rgba(0,0,0,1)",
+            "shapes": [
                 {
                     "centerY": "405.21",
                     "dataend": "03:29.20",
@@ -4030,7 +5455,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 10,
+                    "zIndex": 11,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -4082,7 +5507,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 11,
+                    "zIndex": 12,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -4134,7 +5559,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 12,
+                    "zIndex": 13,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -4186,7 +5611,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 13,
+                    "zIndex": 14,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -4238,7 +5663,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 14,
+                    "zIndex": 15,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -4290,7 +5715,7 @@ klynt.data = {
                         "controlDX": 0
                     },
                     "type": "default",
-                    "zIndex": 15,
+                    "zIndex": 16,
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
@@ -4336,21 +5761,33 @@ klynt.data = {
                         "color": "rgba(0,0,0,1)"
                     },
                     "type": "default",
-                    "zIndex": 16,
+                    "zIndex": 17,
+                    "rollOut": [
+                        {
+                            "value": "0",
+                            "easing": "linear",
+                            "type": "style",
+                            "duration": 0.5,
+                            "target": "86697CA4-97E2-0397-4987-805325A3231C",
+                            "reversible": false,
+                            "delay": 0,
+                            "name": "opacity"
+                        }
+                    ],
                     "transitionIn": {
                         "type": "fade",
                         "duration": "1"
                     },
                     "rollOver": [
                         {
-                            "value": "1.1",
+                            "value": "1",
                             "easing": "linear",
-                            "type": "layout",
+                            "type": "style",
                             "duration": 0.5,
-                            "target": "411F3485-FFE8-AD86-ECFD-7FC2E2F94751",
+                            "target": "86697CA4-97E2-0397-4987-805325A3231C",
                             "reversible": true,
                             "delay": 0,
-                            "name": "scale"
+                            "name": "opacity"
                         }
                     ],
                     "style": {
@@ -4365,6 +5802,52 @@ klynt.data = {
                     "label": "tanitim",
                     "id": "55CB5D64-5283-A453-617B-7FCE82A07472",
                     "databegin": "00:00.00"
+                },
+                {
+                    "centerY": "-473.52",
+                    "dataend": "03:29.20",
+                    "link": {
+                        "hideInMindmap": true,
+                        "controlDY": 0,
+                        "hideArrowInMindmap": false,
+                        "automaticTransition": false,
+                        "controlDX": 0,
+                        "targetSequence": "445A057E-60C7-6BE1-4750-7F97A1E4A280",
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "id": "F8D12783-4ABC-5E19-9CAD-7FF3DF2CEE31",
+                        "color": "rgba(0,0,0,1)"
+                    },
+                    "type": "default",
+                    "zIndex": 18,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "rollOver": [
+                        {
+                            "value": "1.1",
+                            "easing": "linear",
+                            "type": "layout",
+                            "duration": 0.5,
+                            "target": "C2B1433F-9E93-C528-1B87-7FF296AA446F",
+                            "reversible": true,
+                            "delay": 0,
+                            "name": "scale"
+                        }
+                    ],
+                    "style": {
+                        "opacity": 0,
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    },
+                    "scales": true,
+                    "duration": "03:29.19",
+                    "centerX": "727.50",
+                    "width": "417.27",
+                    "height": "63.41",
+                    "label": "sanatcilara don",
+                    "id": "D92DEAEB-BFFD-4873-4A93-7FF308C25E33",
+                    "databegin": "00:00.01"
                 }
             ],
             "id": "C2060D64-EB92-9A90-D121-7FBEC66D1CBB",
@@ -4393,7 +5876,7 @@ klynt.data = {
                             "src": "Medias/Audios/3340-acid-trumpet-by-kevin-macleod.mp3"
                         }
                     ],
-                    "volume": 1,
+                    "volume": 0.6,
                     "mediaId": "D9C64CA9-573E-F33C-565D-7FC637C76156",
                     "databegin": "00:00.00"
                 }
@@ -4405,9 +5888,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "6_hakan",
-            "x": 385.95,
+            "x": -525.05,
             "size": "medium",
-            "y": 2156.4,
+            "y": 2284.7,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -4452,9 +5935,9 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "hideTitleInMindmap": false,
             "title": "2_kemal",
-            "x": 764.65,
+            "x": 2435.55,
             "size": "medium",
-            "y": 1354.85,
+            "y": 1452.75,
             "backgroundColor": "rgba(0,0,0,1)",
             "videos": [
                 {
@@ -4537,7 +6020,16 @@ klynt.data = {
                         "A7C7C3F2-A67E-35B7-41B9-7FD2B2B51ECF",
                         "FB17B4A9-CBE1-FED7-E13D-7FE7B0660F11",
                         "308DB92B-51AA-C075-1510-7FE7BE194886",
-                        "908E6FF5-16CD-5E0C-A93B-7FE7CA3AAC08"
+                        "908E6FF5-16CD-5E0C-A93B-7FE7CA3AAC08",
+                        "6EAC6BF4-43AC-C89F-9F94-8009E3FD5D94",
+                        "8AB97916-C838-C80E-3CA5-800B7FD1AE2B",
+                        "C7BFFF6E-CF09-C5A0-88CC-800B7FD50E32",
+                        "9A683ED7-26D2-BA7D-9384-800B7FDB05B1",
+                        "C8FE5A0F-72E4-7A8C-563B-800B7FDD2CB3",
+                        "C742455B-8488-8589-96C2-800B7FDFE687",
+                        "D67CB50A-56D8-4EE8-0F4F-800B7FE1C131",
+                        "DFC05F51-DBFD-C6F1-67FA-800BBA1ECE7E",
+                        "650FF2AD-CD7C-84B9-656D-800BDF864875"
                     ]
                 },
                 "label": "Index",
@@ -4546,9 +6038,9 @@ klynt.data = {
             {
                 "type": "credits",
                 "params": {
-                    "aboutColumnText": "",
+                    "aboutColumnText": "Is money killing art?",
                     "creditsColumnTitle": "Credits",
-                    "creditsColumnText": null,
+                    "creditsColumnText": "TVJ 472: Documentary Workshop\n\nProje Danışmanı: Dr. Alper Kırklar\n\nEmre Pekuysal\nMert Sak\n\nHasan Michał Akkaya\n\nAlperen Yılmaz\nGüney Ceylan\nYunus Yıldız\nMert Acar\nCem Taha Yüksekdağ\nEmma Van Vooren\n\nBerat Kondu\nBurak Becan\nGizem Yıldız\nGökçe Bozdağ\nYunus Berkehan Keleş\n\n\n\n\n\n",
                     "subtitle": "2019",
                     "title": "Artem Pecunia",
                     "aboutColumnTitle": "About"
@@ -4595,11 +6087,11 @@ klynt.data = {
         "height": 1080,
         "overlayCloseButtonRight": 16,
         "analyticsKey": "",
-        "description": "",
+        "description": "Is money killing art?",
         "mapsKey": "",
         "title": "Artem Pecunia",
         "author": "hsnakkaya",
-        "modificationDate": 1578399893822,
+        "modificationDate": 1578415361072,
         "projectId": "0CED6262-98DA-7835-0FC8-7F97A1C9FDA6",
         "overlayCloseButtonTop": 16,
         "primaryColor": 3355443,

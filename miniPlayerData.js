@@ -10,6 +10,6 @@ klynt.miniPlayerData = {
     "launchAppWording": "Then Launch Project",
     "redirectToMobileApp": "always",
     "downloadAppWording": "Download App",
-    "url": "",
+    "url": "https://artempecunia2019.github.io/",
     "description": "2019"
 }
